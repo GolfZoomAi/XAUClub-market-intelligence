@@ -1,0 +1,3 @@
+# Codex continuation prompt
+
+Inspect the existing Gold Market Intelligence Dashboard Phase 1 repository. Install dependencies, run `npm run typecheck`, `npm test`, and `npm run build`. Fix any errors without changing the intended behavior. Confirm that all demo data are explicitly labeled and that no fake prices are presented as live. Review responsive layout and accessibility. Report the exact tests and build results. Then propose Phase 2 provider options for XAUUSD, DXY, US Treasury data, CME futures, CFTC and economic calendar, comparing licensing, freshness and cost. Do not implement or purchase Phase 2 integrations until explicitly approved.
